@@ -1,0 +1,56 @@
+h1{
+  font-family: 'Satisfy', cursive;
+  color: pink;
+  text-align: center;
+  font-size: 5rem;
+  margin-top: 60px;
+}
+
+h2, h4{
+  text-align: center;
+}
+
+body{
+  font-family: 'Jost', sans-serif;
+  margin: 0;
+
+}
+
+.heading{
+  background-color: white;
+  height: 300px; 
+  position: absolute; 
+  top: 0;
+  left: 0;
+  right: 0; 
+}
+
+.intro{
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 320px;
+
+}
+body {
+    background-color: pink;
+  }
+  
+ 
+
+
+.top-container{
+    background-color: pink;
+    height: 300px; 
+    position: absolute; 
+    top: 0;
+    left: 0;
+    right: 0; 
+}
+
+h2{
+    font-family: 'Satisfy', cursive;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 80px;

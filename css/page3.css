@@ -1,0 +1,169 @@
+h1{
+    font-family: 'Satisfy', cursive;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 60px;
+}
+
+h2, h4 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+       
+}
+
+h2{
+    margin-bottom: 40px;
+}
+
+body{
+    font-family: 'Jost', sans-serif;
+    margin: 0;
+  
+}
+
+.heading{
+    background-color: pink;
+    height: 300px; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0; 
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+ 
+}
+
+.navlinks{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 200px;
+    margin-left: 170px;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.navlinks:hover{
+    color: #000;
+}
+.intro{
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 320px;
+
+}
+
+.arrive{
+    width:30%;
+}
+
+.schedule{
+    width:30%; 
+    float: left;
+    margin-left: 30px; 
+    margin-top: 15px;  
+}
+.recommendations{
+    width: 30%; 
+    float: left;
+    margin-left: 40px;
+    
+}
+
+.food{
+    width: 30%; 
+    float: right;
+   
+}
+
+.pic{
+width: 50%;
+border-radius: 100%;
+margin-left: 100px; 
+}
+
+
+.middle-container{
+ margin-top: 700px;
+}
+
+.schedule-second{
+    width:30%; 
+    float: left;
+    margin-left: 30px; 
+    margin-top:     
+} 
+  
+.recommendations-second{
+    width: 30%; 
+    float: left;
+    margin-left: 40px;
+}
+
+.food-second{
+    width: 30%; 
+    float: right;
+    
+}
+
+
+.bottom-container{
+    margin-top: 700px;
+}
+
+.schedule-third{
+    width:30%; 
+    float: left;
+    margin-left: 30px; 
+    margin-top: 15px;    
+}
+
+.recommendations-third{
+    width: 30%; 
+    float: left;
+    margin-left: 40px;
+}
+
+.food-third{
+    width: 30%; 
+    float: right;
+    
+}
+
+.bottom{
+    margin-top: 700px;
+    background-color: pink;
+    padding: 100px 100px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+
+.map{
+    width: 40%;
+    height: 120px;
+    margin: 15px 100px 0; 
+    border-radius: 20px;
+    border: solid 1px #000;
+}
+
+.food-link{
+    text-decoration: none;
+    color: pink; 
+}
+
+.food-link:hover{
+    color:palevioletred;
+}
+
+.copyright{
+    margin:0;
+}
